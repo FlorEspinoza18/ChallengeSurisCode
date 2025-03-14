@@ -1,0 +1,11 @@
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\bin\Debug\net7.0\GestionReserva.Domain.deps.json
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\bin\Debug\net7.0\GestionReserva.Domain.dll
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\bin\Debug\net7.0\GestionReserva.Domain.pdb
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\obj\Debug\net7.0\GestionReserva.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\obj\Debug\net7.0\GestionReserva.Domain.AssemblyInfoInputs.cache
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\obj\Debug\net7.0\GestionReserva.Domain.AssemblyInfo.cs
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\obj\Debug\net7.0\GestionReserva.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\obj\Debug\net7.0\GestionReserva.Domain.dll
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\obj\Debug\net7.0\refint\GestionReserva.Domain.dll
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\obj\Debug\net7.0\GestionReserva.Domain.pdb
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Domain\obj\Debug\net7.0\ref\GestionReserva.Domain.dll

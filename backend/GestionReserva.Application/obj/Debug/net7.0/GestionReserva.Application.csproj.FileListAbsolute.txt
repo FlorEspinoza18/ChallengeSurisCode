@@ -1,0 +1,15 @@
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\bin\Debug\net7.0\GestionReserva.Application.deps.json
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\bin\Debug\net7.0\GestionReserva.Application.dll
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\bin\Debug\net7.0\GestionReserva.Application.pdb
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\bin\Debug\net7.0\GestionReserva.Domain.dll
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\bin\Debug\net7.0\GestionReserva.Domain.pdb
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\obj\Debug\net7.0\GestionReserva.Application.csproj.AssemblyReference.cache
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\obj\Debug\net7.0\GestionReserva.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\obj\Debug\net7.0\GestionReserva.Application.AssemblyInfoInputs.cache
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\obj\Debug\net7.0\GestionReserva.Application.AssemblyInfo.cs
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\obj\Debug\net7.0\GestionReserva.Application.csproj.CoreCompileInputs.cache
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\obj\Debug\net7.0\GestionReserva.Application.csproj.CopyComplete
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\obj\Debug\net7.0\GestionReserva.Application.dll
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\obj\Debug\net7.0\refint\GestionReserva.Application.dll
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\obj\Debug\net7.0\GestionReserva.Application.pdb
+C:\Users\NB-76\Documents\SurisCode\GestionReserva.Application\obj\Debug\net7.0\ref\GestionReserva.Application.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GestionReserva.Application/1.0.0": {
+        "dependencies": {
+          "GestionReserva.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GestionReserva.Application.dll": {}
+        }
+      },
+      "GestionReserva.Domain/1.0.0": {
+        "runtime": {
+          "GestionReserva.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestionReserva.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestionReserva.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -11,7 +11,7 @@ Base de datos: JSON Server (para datos de prueba)
 
 🚀 Instalación y Ejecución
 1️⃣ Clonar el repositorio
-git clone https://github.com/tu-repo.git
+git clone https://github.com/tu-repo.git](https://github.com/FlorEspinoza18/ChallengeSurisCode.git
 
 2️⃣ Instalar dependencias
 npm install

@@ -1,0 +1,91 @@
+{
+  "servicios": [
+    {
+      "id": "1",
+      "nombre": "Servicio Premium",
+      "descripcion": "Acceso exclusivo a funciones avanzadas."
+    },
+    {
+      "id": "2",
+      "nombre": "Servicio Básico",
+      "descripcion": "Incluye las funcionalidades esenciales."
+    },
+    {
+      "id": "3",
+      "nombre": "Servicio Express",
+      "descripcion": "Atención rápida y prioritaria para consultas."
+    }
+  ],
+  "reservas": [
+    {
+      "id": "1",
+      "servicioId": 1,
+      "fecha": "2025-03-15",
+      "hora": "10:00",
+      "cliente": "cliente1@example.com"
+    },
+    {
+      "id": "2",
+      "servicioId": 2,
+      "fecha": "2025-03-16",
+      "hora": "11:00",
+      "cliente": "cliente2@example.com"
+    },
+    {
+      "id": "3",
+      "servicioId": 3,
+      "fecha": "2025-03-17",
+      "hora": "12:00",
+      "cliente": "cliente3@example.com"
+    },
+    {
+      "id": "1",
+      "servicioId": 1,
+      "fecha": "2025-03-15",
+      "hora": "10:00",
+      "cliente": "ejemplo@email.com"
+    },
+    {
+      "id": "1",
+      "servicioId": 1,
+      "fecha": "2025-03-15",
+      "hora": "10:25",
+      "cliente": "ejemplo@email.com"
+    },
+    {
+      "id": "5f45",
+      "servicioId": 2,
+      "fecha": "2025-03-17",
+      "hora": "15:00",
+      "cliente": "ejemplo@email.com"
+    },
+    {
+      "id": "1471",
+      "servicioId": 1,
+      "fecha": "2025-03-16",
+      "hora": "09:30",
+      "cliente": "test@gmail.com"
+    },
+    {
+      "id": "431",
+      "servicioId": 1,
+      "fecha": "2025-03-15",
+      "hora": "16:00",
+      "cliente": "pepito"
+    },
+    {
+      "id": "652c",
+      "servicioId": "2",
+      "fecha": "2025-03-15",
+      "hora": "10:30",
+      "cliente": "plpl"
+    },
+    {
+      "id": "16cb",
+      "servicioId": "1",
+      "fecha": "2025-03-15",
+      "hora": "10:30",
+      "cliente": "flor"
+    }
+  ]
+}
